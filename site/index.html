@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light">
+<meta name="theme-color" content="#F4F7F8">
+<title>PDÖ · Lökositler, Akut Faz, HIV/AIDS</title>
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="skip" href="#giris">İçeriğe geç</a>
+
+<div class="shell">
+
+  <aside class="rail" id="rail">
+    <div class="rail-top">
+      <a class="brand" href="#giris">
+        <span class="brand-mark" aria-hidden="true">+</span>
+        <span class="wordmark">PDÖ</span>
+        <span class="sub">Akdeniz Tıp · Dönem 2</span>
+      </a>
+      <p class="rail-now" id="rail-now" aria-live="polite"></p>
+      <button class="rail-toggle" id="rail-toggle" type="button" aria-expanded="false" aria-controls="rail-nav">
+        <span class="rail-toggle-bars" aria-hidden="true"></span>
+        <span>İçindekiler</span>
+      </button>
+    </div>
+
+    <nav id="rail-nav" aria-label="Bölümler"></nav>
+
+    <footer>
+      <button class="btn ghost sm" id="btn-full" type="button" aria-pressed="false">Tam ekran <kbd>F</kbd></button>
+      <div><kbd>J</kbd>/<kbd>K</kbd> sonraki / önceki bölüm</div>
+      <div class="dim">Tüm konular tek sayfada; soldan istediğin bölüme atla.</div>
+    </footer>
+  </aside>
+
+  <main id="main">
+    <section id="giris" class="hero" tabindex="-1">
+      <div class="inner">
+        <span class="ep-badge"><span class="no">PDÖ</span> ÖĞRENİM HEDEFLERİ</span>
+        <div class="kicker">Akdeniz Üniversitesi Tıp Fakültesi · Dönem 2</div>
+        <h1 id="hero-title">Kan, iltihap ve HIV<span class="em">.</span></h1>
+        <div class="hero-rule"></div>
+        <p class="lede">Lökositlerin yapısından periferik yaymaya, akut faz reaktanlarından HIV'in CD4+ hücrelerle ilişkisine: öğrenim hedefleri tek sayfada, sırayla.</p>
+        <div class="stat-row" id="stats"></div>
+        <div class="toc" id="toc"></div>
+      </div>
+      <div class="hero-cue" aria-hidden="true"><span class="hero-cue-line"></span><span class="hero-cue-t">AŞAĞI KAY</span></div>
+    </section>
+
+    <div id="topics"></div>
+
+    <section class="end">
+      <div class="inner">
+        <div class="kicker">Son</div>
+        <h2>Teşekkürler<span class="em">.</span></h2>
+        <p class="lede">Sorular için hazırım.</p>
+        <a class="btn" href="#giris">Başa dön</a>
+      </div>
+    </section>
+  </main>
+</div>
+
+<a class="to-top" id="to-top" href="#giris" aria-label="Başa dön">
+  <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 14l6-6 6 6"/></svg>
+</a>
+
+<dialog class="lightbox" id="lightbox" aria-label="Görsel büyütülmüş">
+  <button class="lb-close" id="lb-close" type="button" aria-label="Kapat">×</button>
+  <figure class="lb-fig">
+    <img id="lb-img" alt="">
+    <figcaption id="lb-cap"></figcaption>
+  </figure>
+</dialog>
+
+<script src="content.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
