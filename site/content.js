@@ -23,117 +23,181 @@ window.TOPICS = [
 </ul>
 <div class="key"><p>Tüm lökositlerde iki tip granül olabilir: <strong>azurofilik (primer)</strong> granüller lizozom niteliğindedir; <strong>spesifik (sekonder)</strong> granüller yalnızca granülositlerde vardır ve hücreye adını verir.</p></div>
 <figure class="slide-img"><img src="img/lokosit-yapi-1.jpg" alt="Lökositlerin granülosit ve agranülosit olarak sınıflandırılması ve oranları" loading="lazy"><figcaption>Fizyoloji 6 "Vücudun enfeksiyona direnci -1", s. 19 — lökositlerin granüllü/granülsüz sınıflaması ve oranları</figcaption></figure>
-<p class="src">Kaynak: Drive – Fizyoloji 6 "Vücudun enfeksiyona direnci: Lökositler… -1" (Doç. Dr. Özlem Özsoy); Histoloji 1 "Kan hücreleri gelişmesi ve histolojisi" (Prof. Dr. E. T. Korgun); Biyokimya 5 "Lökosit trombosit biyokimyası"</p>`
-      },
-      {
-        heading: "Lökosit tiplerinin karşılaştırması",
-        html: `
-<table><caption>Periferik kandaki lökositler</caption>
-<thead><tr><th>Hücre</th><th>Oran (sayı/mm³)</th><th>Çap</th><th>Çekirdek</th><th>Granül / boyanma</th></tr></thead>
-<tbody>
-<tr><td>Nötrofil</td><td>%60–70 (3.500–7.000)</td><td>12–14 µm</td><td>3–5 lob (genç: çomak/band)</td><td>İnce, nötr boyanan (pembe-eflatun)</td></tr>
-<tr><td>Eozinofil</td><td>%1–4 (150–400)</td><td>~12 µm</td><td>Genellikle 2 lob</td><td>İri, eozinle turuncu-kırmızı</td></tr>
-<tr><td>Bazofil</td><td>%0–1 (40–100)</td><td>10–12 µm</td><td>2–3 lob, granüllerle örtülü</td><td>İri, bazik boyayla koyu mor (metakromazi)</td></tr>
-<tr><td>Lenfosit</td><td>%20–30 (1.000–3.500)</td><td>Küçük 6–8, büyük 10–12 µm</td><td>Yuvarlak, sitoplazmayı neredeyse doldurur</td><td>İnce bazofilik sitoplazma halkası</td></tr>
-<tr><td>Monosit</td><td>%3–8 (80–800)</td><td>12–20 µm (en büyük)</td><td>Böbrek / at nalı şeklinde, eksantrik</td><td>Gri-mavi geniş sitoplazma, ince azurofilik granül</td></tr>
-</tbody></table>
-<div class="note"><p>Kaynaklar arası küçük fark: Fizyoloji sunumu eozinofil için %2–4, nötrofil için %60–70 (ortalama %62) verir; Histoloji %1–4 verir. Sağlıklı bireyde ortalama dağılım (Fizyoloji): nötrofil %62, lenfosit %30, monosit %5,3, eozinofil %2,3, bazofil %0,4.</p></div>
-<figure class="slide-img"><img src="img/lokosit-yapi-2.jpg" alt="Periferik yaymada nötrofil, eozinofil, bazofil, lenfosit ve monosit mikroskopi görüntüleri" loading="lazy"><figcaption>Histoloji 1 "Kan hücreleri gelişmesi ve histolojisi", s. 38 — granülosit ve agranülositlerin mikroskopik görünümü</figcaption></figure>
-<p class="src">Kaynak: Drive – Histoloji 1 "Kan hücreleri…" (lökosit formülü); Fizyoloji 6; Biyokimya 5</p>`
+<p class="src">Kaynak: Drive – Fizyoloji 6 "Vücudun enfeksiyona direnci: Lökositler… -1" (Doç. Dr. Özlem Özsoy) s. 16–20, 44; Histoloji 1 "Kan hücreleri gelişmesi ve histolojisi" (Prof. Dr. E. T. Korgun); Biyokimya 5 "Lökosit trombosit biyokimyası"</p>`
       },
       {
         heading: "Özet tablo: 5 lökosit tipi",
         html: `
 <table><caption>Lökositlerin karşılaştırmalı özeti</caption>
-<thead><tr><th>Hücre</th><th>Oran</th><th>Çekirdek</th><th>Granül / içerik</th><th>Ömür (kan → doku)</th><th>Ana fonksiyon</th><th>Arttığı durumlar</th></tr></thead>
+<thead><tr><th>Hücre</th><th>Oran (sayı/mm³)</th><th>Çap</th><th>Çekirdek</th><th>Granül / boyanma</th><th>Ömür (kan → doku)</th><th>Ana fonksiyon</th><th>Arttığı durumlar</th></tr></thead>
 <tbody>
-<tr><td><strong>Nötrofil</strong></td><td>%60–70</td><td>3–5 lob; genç formu çomak (band)</td><td>Azurofilik: MPO, elastaz, lizozim, defensin; spesifik: laktoferrin, kollajenaz, ALP</td><td>4–8 saat → 4–5 gün</td><td>Akut inflamasyonda ilk gelen fagosit; solunum patlaması, NET</td><td>Bakteriyel enfeksiyon, akut inflamasyon (nötrofili, sola kayma)</td></tr>
-<tr><td><strong>Eozinofil</strong></td><td>%1–4</td><td>Genellikle 2 lob</td><td>İri, turuncu-kırmızı; majör bazik protein, eozinofil katyonik protein, peroksidaz, histaminaz</td><td>Kanda kısa, dokuda çok (dokuda ~100 kat)</td><td>Helmint öldürme, alerjide düzenleyici; zayıf fagosit</td><td>Parazit enfeksiyonu, astım ve alerjik hastalıklar (eozinofili)</td></tr>
-<tr><td><strong>Bazofil</strong></td><td>%0–1</td><td>2–3 lob, granüllerle örtülü</td><td>Koyu mor; histamin, heparin, eozinofil kemotaktik faktör; yüzeyde IgE reseptörü</td><td>—</td><td>Tip I (erken) aşırı duyarlılık, inflamasyonu başlatma; dokudaki karşılığı mast hücresi</td><td>Alerjik inflamasyon, parazit enfeksiyonu</td></tr>
-<tr><td><strong>Lenfosit</strong></td><td>%20–30</td><td>Yuvarlak, sitoplazmayı neredeyse doldurur</td><td>Granül yok (NK'da iri azurofilik granül)</td><td>Saatler (lenf–kan dolaşımı) → haftalar–yıllar (bellek)</td><td>Özgül bağışıklık: T (hücresel), B (antikor), NK</td><td>Viral enfeksiyonlar (lenfositoz)</td></tr>
-<tr><td><strong>Monosit</strong></td><td>%3–8</td><td>Böbrek / at nalı, eksantrik; en büyük lökosit</td><td>Gri-mavi geniş sitoplazma, ince azurofilik granül</td><td>10–20 saat → makrofaj olarak aylar–yıllar</td><td>Makrofaja dönüşür: fagositoz, antijen sunumu, IL-1/TNF</td><td>Kronik enfeksiyon ve kronik inflamasyon (ör. tüberküloz)</td></tr>
+<tr><td><strong>Nötrofil</strong></td><td>%60–70 (3.500–7.000)</td><td>12–14 µm</td><td>2–5 lob, ince kromatin iplikçikleriyle bağlı; genç formu çomak (stab/band)</td><td>Nötr boyalarla pembe ince granüller: proteazlar (elastaz, kollajenaz, metalloproteinaz), MPO, defensinler</td><td>4–8 saat → 4–5 gün</td><td>En güçlü ve ilk gelen fagosit; 3–20 bakteri yutar, solunum patlaması, degranülasyon</td><td>Enfeksiyon (özellikle bakteriyel), akut inflamasyon; kemik iliğinde yapımı ve salınımı uyarılır</td></tr>
+<tr><td><strong>Eozinofil</strong></td><td>%2–4 (150–400)</td><td>~12 µm</td><td>Genellikle 2 lob</td><td>Asidik boyalarla kırmızı iri granüller: sitotoksik granül proteinleri (majör bazik protein vb.)</td><td>Kanda kısa → çoğu dokuda (GİS, üriner, solunum mukozası)</td><td>Parazit öldürme; mast/bazofil mediatörlerini ve antijen-antikor komplekslerini fagosite eder; T hücreye antijen sunar; zayıf fagosit</td><td>Paraziter enfeksiyon, astım ve alerjik hastalıklar, bazı solunum ve GİS hastalıkları</td></tr>
+<tr><td><strong>Bazofil</strong></td><td>%0,5–1 (40–100)</td><td>10–12 µm</td><td>2–3 lob, granüllerle örtülü</td><td>Bazik boyalarla mor granüller: histamin, heparin; yüzeyde IgE reseptörü</td><td>Kanda; gerektiğinde dokuya geçer</td><td>Erken tip aşırı duyarlılık (ürtiker, rinit, anafilaksi); mast hücresinin kandaki benzeri; zayıf fagosit</td><td>Alerjik inflamasyon, parazit enfeksiyonu</td></tr>
+<tr><td><strong>Monosit</strong></td><td>%3–8 (80–800)</td><td>12–20 µm (en büyük)</td><td>Böbrek / at nalı, eksantrik</td><td>Gri-mavi geniş sitoplazma, ince azurofilik granül</td><td>10–20 saat → makrofaj olarak 1–3 yıl</td><td>Makrofaja dönüşür: ~100 bakteri fagositozu, antijen sunumu, IL-1/TNF</td><td>Kronik enfeksiyon ve kronik inflamasyon (ör. tüberküloz)</td></tr>
+<tr><td><strong>Lenfosit</strong></td><td>%20–30 (1.000–3.500)</td><td>Küçük 6–8, büyük 10–12 µm</td><td>Yuvarlak, sitoplazmayı neredeyse doldurur</td><td>İnce bazofilik halka; granül yok (NK'da iri azurofilik granül)</td><td>Kanda saatler (lenf–kan dolaşımı) → haftalar–yıllar (bellek)</td><td>Özgül bağışıklık: T (hücresel), B (antikor); NK doğal öldürücü</td><td>Viral enfeksiyonlar (lenfositoz)</td></tr>
 </tbody></table>
+<div class="note"><p>Kaynaklar arası fark: Fizyoloji 6 sunumu nötrofil çekirdeği için 2–5 lob, eozinofil için %2–4, bazofil için %0,5–1 verir; Histoloji 1 nötrofil 3–5 lob, eozinofil %1–4, bazofil %0–1 verir. Sağlıklı bireyde ortalama dağılım (Fizyoloji 6, s. 20): nötrofil %62, lenfosit %30, monosit %5,3, eozinofil %2,3, bazofil %0,4.</p></div>
 <div class="note"><p>Toplam lökosit düşüklüğü (lökopeni) tifo, bazı viral enfeksiyonlar ve kanserde görülebilir; çok yüksek lökositoz lösemiyi taklit edebilir (lökomoid reaksiyon).</p></div>
-<p class="src">Kaynak: Drive – Histoloji 1; Fizyoloji 6 (yaşam süreleri, bazofil artış nedenleri); Biyokimya 5 (monosit: kronik enfeksiyon); Patoloji (K5) 8 (viral enfeksiyonda lenfosit, alerjide eozinofil artışı; s. 91 lökomoid reaksiyon, lökopeni nedenleri)</p>`
+<figure class="slide-img"><img src="img/lokosit-yapi-2.jpg" alt="Periferik yaymada nötrofil, eozinofil, bazofil, lenfosit ve monosit mikroskopi görüntüleri" loading="lazy"><figcaption>Histoloji 1 "Kan hücreleri gelişmesi ve histolojisi", s. 38 — granülosit ve agranülositlerin mikroskopik görünümü</figcaption></figure>
+<p class="src">Kaynak: Drive – Fizyoloji 6 "Vücudun enfeksiyona direnci: Lökositler, granülositler, monosit-makrofaj sistemi ve enfeksiyon -1" s. 20, 27, 34–35, 43–54 (esas kaynak); Histoloji 1 (çaplar, mutlak sayılar); Biyokimya 5 (monosit: kronik enfeksiyon); Patoloji (K5) 8 (viral enfeksiyonda lenfosit artışı; s. 91 lökomoid reaksiyon, lökopeni nedenleri)</p>`
       },
       {
-        heading: "Yapım (lökopoez) ve yaşam süreleri",
+        heading: "Granülositler: yapım ve yaşam süresi",
         html: `
 <ul>
-<li>Tüm kan hücreleri kemik iliğindeki <strong>pluripotent hematopoetik kök hücreden</strong> (CD34+) gelişir; <strong>miyeloid</strong> ve <strong>lenfoid</strong> öncüller ayrılır.</li>
-<li><strong>Miyeloid seri:</strong> CFU-GM → miyeloblast → promiyelosit → miyelosit → metamiyelosit → çomak (band) → segmentli nötrofil. Monosit: monoblast → promonosit → monosit.</li>
-<li><strong>Lenfoid seri:</strong> B lenfosit ve NK hücre kemik iliğinde, T lenfosit <strong>timusta</strong> olgunlaşır; periferik lenfoid organlarda aktive olur.</li>
-<li>Kemik iliğindeki granülosit sayısı periferik kandakinin ~20 katıdır; bu <strong>rezerv havuzu</strong> enfeksiyonda hızla kana verilir.</li>
+<li><strong>Granülosit</strong> = nötrofil, eozinofil, bazofil. Çekirdekleri <strong>2–5 lobludur</strong>; loblar ince kromatin iplikçikleriyle bağlıdır. Bu yüzden <strong>polimorfonükleer lökosit (PMN)</strong> da denir.</li>
+<li>Sitoplazmalarında <strong>biyolojik açıdan aktif madde içeren granüller</strong> bulunur; hücre adını bu granüllerin boyanmasından alır.</li>
+<li>Kemik iliğindeki ortak öncül <strong>CFU-GM</strong>'den (granülosit-monosit koloni oluşturan ünite) gelişirler.</li>
 </ul>
-<table><caption>Yaşam süreleri</caption>
-<thead><tr><th>Hücre</th><th>Kanda</th><th>Dokuda</th></tr></thead>
+<h3>Farklılaşma basamakları</h3>
+<ol>
+<li><strong>Mitotik (bölünebilen) evre:</strong> miyeloblast → promiyelosit → miyelosit</li>
+<li><strong>Postmitotik (bölünmeyen, olgunlaşan) evre:</strong> metamiyelosit → çomak/stab (band, genç hücre) → segmentli (olgun) nötrofil</li>
+</ol>
+<h3>Yaşam üç ayrı ortamda geçer</h3>
+<table><caption>Granülositlerin yaşam süresi</caption>
+<thead><tr><th>Ortam</th><th>Süre</th><th>Anlamı</th></tr></thead>
 <tbody>
-<tr><td>Granülositler (nötrofil)</td><td>4–8 saat</td><td>4–5 gün</td></tr>
-<tr><td>Monosit → makrofaj</td><td>10–20 saat</td><td>Makrofaj olarak aylar–yıllar (1–3 yıl)</td></tr>
-<tr><td>Lenfositler</td><td>Birkaç saat (sürekli lenf–kan dolaşımı)</td><td>Haftalar–yıllar (bellek hücreleri uzun yaşar)</td></tr>
+<tr><td>Kemik iliği – mitotik havuz</td><td>3–5 gün</td><td>Bölünerek çoğalma</td></tr>
+<tr><td>Kemik iliği – postmitotik havuz</td><td>5–6 gün</td><td>Olgunlaşma ve depo; iliktaki granülosit sayısı kandakinin ~20 katı, enfeksiyonda hızla kana verilir</td></tr>
+<tr><td>Kan</td><td>4–8 saat</td><td>Yalnızca taşınma</td></tr>
+<tr><td>Doku</td><td>4–5 gün</td><td>Asıl görev yeri; geri dolaşıma dönmezler</td></tr>
 </tbody></table>
-<div class="note"><p>Histoloji sunumu nötrofil için kanda 6–7 saat, dokuda 1–4 gün verir; Fizyoloji ve Biyokimya sunumları 4–8 saat / 4–5 gün der. Sunumda "saatler kanda, günler dokuda" ifadesi güvenlidir.</p></div>
-<figure class="slide-img"><img src="img/lokosit-yapi-3.jpg" alt="Lökopoez şeması: hemositoblasttan miyeloid ve lenfoid serilere farklılaşma" loading="lazy"><figcaption>Fizyoloji 6 "Vücudun enfeksiyona direnci -1", s. 24 — lökopoez (miyeloid ve lenfoid seri)</figcaption></figure>
-<p class="src">Kaynak: Drive – Fizyoloji 6; Histoloji 1; Biyokimya 5. Playlist: "Lökositler, 1, Granulopoez" (yalnızca başlık)</p>`
+<ul>
+<li><strong>Monosit:</strong> monoblast → promonosit → monosit (iliğe ~6 gün); kanda 10–20 saat; dokuda makrofaj olarak 1–3 yıl.</li>
+<li><strong>Lenfosit:</strong> B ve NK hücreleri kemik iliğinde, T lenfositler <strong>timusta</strong> olgunlaşır; büyük kısmı lenfoid dokuda depolanır, kana kısa süreli geçer.</li>
+</ul>
+<div class="note"><p>Histoloji 1 sunumu nötrofil için kanda 6–7 saat, dokuda 1–4 gün verir. Burada Fizyoloji 6 değerleri (4–8 saat / 4–5 gün) esas alındı; Biyokimya 5 de aynı değerleri verir.</p></div>
+<figure class="slide-img"><img src="img/lokosit-yapi-3.jpg" alt="Granülosit farklılaşması: kök hücre, CFU-GM, miyeloblast, promiyelosit, miyelosit, metamiyelosit, çomak ve segmentli nötrofil" loading="lazy"><figcaption>Fizyoloji 6 "Vücudun enfeksiyona direnci -1", s. 46 — granülosit farklılaşması (mitotik ve postmitotik evreler)</figcaption></figure>
+<figure class="slide-img"><img src="img/lokosit-yapi-6.jpg" alt="Granülositlerin kemik iliği, kan ve dokudaki yaşam süreleri şeması" loading="lazy"><figcaption>Fizyoloji 6 "Vücudun enfeksiyona direnci -1", s. 45 — granülositlerin yaşamı üç ortamda geçer</figcaption></figure>
+<p class="src">Kaynak: Drive – Fizyoloji 6 "Vücudun enfeksiyona direnci -1" s. 25–27, 34, 44–46; Histoloji 1. Playlist: "Lökositler, 1, Granulopoez" (yalnızca başlık)</p>`
       },
       {
         heading: "Nötrofil: ilk savunma hattı",
         html: `
+<h3>Yapı</h3>
 <ul>
-<li>En kalabalık lökosit; bakteriyel enfeksiyon ve <strong>akut inflamasyonda</strong> dokuya ilk gelen hücre (6–24 saat).</li>
-<li>Bakteri toksinleri kemik iliğinde nötrofil yapımını ve salınımını uyarır → <strong>nötrofili</strong>.</li>
-<li>Bir nötrofil <strong>3–20 bakteri</strong> fagosite eder, sonra çoğu ölür (irin = ölü nötrofil + debris).</li>
-<li>Terminal hücredir, bölünmez; anaerobik ortamda da yaşayabilir.</li>
+<li><strong>En fazla bulunan lökosit</strong> (%60–70); çekirdeği çok parçalı (2–5 lob); granülleri <strong>nötr boyalarla pembeye</strong> boyanır.</li>
+<li>Terminal hücredir, bölünmez. Genç formu çomak (band) nötrofildir; artışı "sola kayma" demektir.</li>
 </ul>
-<h3>Granül içerikleri</h3>
+<h3>Fonksiyon</h3>
 <ul>
-<li><strong>Azurofilik (primer):</strong> miyeloperoksidaz (MPO), lizozim, elastaz, katepsin G, asit hidrolazlar, defensinler, bakterisidal permeabilite artırıcı protein.</li>
-<li><strong>Spesifik (sekonder):</strong> laktoferrin, tip IV kollajenaz, fosfolipaz A2, alkalen fosfataz, lizozim.</li>
-</ul>
-<h3>Öldürme mekanizmaları</h3>
-<ul>
-<li><strong>Solunum patlaması:</strong> NADPH oksidaz O<sub>2</sub>'yi süperoksite çevirir → H<sub>2</sub>O<sub>2</sub> → MPO ile <strong>HOCl</strong> (hipokloröz asit). NADPH pentoz fosfat yolundan (G6PD) gelir.</li>
-<li><strong>Lizozomal enzimler</strong> ve <strong>reaktif nitrojen türleri</strong> (NO, peroksinitrit).</li>
+<li>Kanda bulunur ama <strong>inflamasyonda kapillerleri terk edip dokuya girer</strong>; akut inflamasyonda ilk gelen hücredir (6–24 saat).</li>
+<li><strong>Dokuya geçer geçmez fagositoza başlar:</strong> patojene tutunma → yalancı ayaklarla sarma → fagositik vezikül (fagozom).</li>
+<li>Bir nötrofil <strong>3–20 bakteri</strong> yutar; fagositozdan sonra büyük kısmı ölür (irin = ölü nötrofil + debris).</li>
+<li><strong>Degranülasyon:</strong> granül içerikleri hem fagositik vakuole hem interstisyel aralığa boşaltılır: proteazlar (elastaz, kollajenaz, metalloproteinaz), miyeloperoksidaz (MPO), defensinler (antimikrobiyal peptitler).</li>
+<li><strong>Solunum patlaması:</strong> fagositozdan sonra metabolizma ve oksijen tüketimi ciddi biçimde artar. Fagozom zarındaki <strong>NADPH oksidaz</strong> süperoksit (O<sub>2</sub><sup>−</sup>) üretir; reaksiyon şelalesiyle H<sub>2</sub>O<sub>2</sub>, OH<sup>−</sup>, MPO ile <strong>HOCl</strong>, NOS ile <strong>NO</strong> oluşur. Bu okside edici ajanların <strong>az miktarı bile öldürücüdür</strong>.</li>
 <li><strong>NET (nötrofil hücre dışı tuzakları):</strong> kromatin + histon + MPO/elastaz ağı; mikrobu yakalar, yayılımı önler.</li>
 </ul>
-<div class="note"><p><strong>Kronik granülomatöz hastalık:</strong> NADPH oksidaz defekti → bakteri yutulur ama öldürülemez; katalaz (+) mikroplar (S. aureus, Aspergillus) ile tekrarlayan enfeksiyon ve granülom. <strong>Chediak-Higashi:</strong> fagolizozom oluşamaz, nötrofillerde dev granüller.</p></div>
+<h3>Klinik bağlantı</h3>
+<ul>
+<li>Enfeksiyonda kemik iliğinde yapımı ve salınımı büyük oranda uyarılır → <strong>nötrofili</strong> ve sola kayma.</li>
+<li><strong>Kronik granülomatöz hastalık:</strong> NADPH oksidaz defekti → bakteri yutulur ama öldürülemez; katalaz (+) mikroplarla (S. aureus, Aspergillus) tekrarlayan enfeksiyon ve granülom. <strong>G6PD eksikliğinde</strong> NADPH azaldığı için benzer tablo görülebilir.</li>
+<li><strong>Chediak-Higashi:</strong> fagolizozom oluşamaz, nötrofillerde dev granüller.</li>
+<li>Granül enzimleri dokuya da salındığı için kontrolsüz nötrofil aktivasyonu doku hasarı yapar (ör. ARDS); α1-antitripsin elastazı dengeler.</li>
+</ul>
+<figure class="slide-img"><img src="img/lokosit-yapi-7.jpg" alt="Nötrofilde fagositoz: patojene tutunma, yalancı ayaklar ve fagozom oluşumu" loading="lazy"><figcaption>Fizyoloji 6 "Vücudun enfeksiyona direnci -1", s. 48 — nötrofillerde fagositoz</figcaption></figure>
+<figure class="slide-img"><img src="img/lokosit-yapi-8.jpg" alt="Nötrofil granül içeriklerinin fagositik vakuole ve interstisyel aralığa degranülasyonu" loading="lazy"><figcaption>Fizyoloji 6 "Vücudun enfeksiyona direnci -1", s. 49 — nötrofil granülleri ve degranülasyon</figcaption></figure>
 <figure class="slide-img"><img src="img/lokosit-yapi-5.jpg" alt="Nötrofilde solunum patlaması ve oksitleyici ajanların oluşumu şeması" loading="lazy"><figcaption>Fizyoloji 6 "Vücudun enfeksiyona direnci -1", s. 50 — nötrofillerde solunum patlaması</figcaption></figure>
-<p class="src">Kaynak: Drive – Fizyoloji 6; Biyokimya 5; Histoloji 1; Patoloji (K5) 8 "Akut ve kronik yangı". Playlist: "Lökositler, 2, Nötrofiller"</p>`
+<p class="src">Kaynak: Drive – Fizyoloji 6 "Vücudun enfeksiyona direnci -1" s. 47–50 (esas kaynak); Biyokimya 5 (NET, G6PD, Chediak-Higashi); Patoloji (K5) 8 "Akut ve kronik yangı" (6–24 saat, ARDS, α1-antitripsin). Playlist: "Lökositler, 2, Nötrofiller"</p>`
       },
       {
-        heading: "Eozinofil ve bazofil",
+        heading: "Eozinofil",
         html: `
-<h3>Eozinofil</h3>
+<h3>Yapı ve yerleşim</h3>
 <ul>
-<li>Çekirdek genellikle 2 loblu, granüller eozinle turuncu-kırmızı.</li>
-<li>Görev: <strong>parazit (helmint) enfeksiyonları</strong> ve <strong>alerjik reaksiyonlar</strong> (astım). Zayıf fagosittir; antijen-antikor komplekslerini fagosite eder.</li>
-<li>Granül içeriği: <strong>majör bazik protein</strong> (parazit membranını bozar), eozinofil katyonik protein, eozinofil peroksidaz, nörotoksin, histaminaz, aril sülfataz.</li>
-<li>Dokuda kandakinin ~100 katı bulunur (akciğer, GİS, deri). Kortikosteroidler eozinofil sayısını düşürür.</li>
+<li>Çekirdek genellikle <strong>2 parçalı</strong>; granülleri <strong>asidik boyalarla (eozin) kırmızıya</strong> boyanır.</li>
+<li>Kanda azdır; asıl olarak <strong>GİS, üriner kanallar ve solunum mukozasında</strong> bulunur.</li>
+<li>Normalde timusta korteks-medulla arasında, alt GİS'te, over, uterus, dalak ve lenf nodlarında yerleşir; <strong>akciğer, deri ve özofagusta normal koşullarda düşük</strong> düzeydedir (bu organlarda artışı patolojiktir, ör. astım, eozinofilik özofajit).</li>
 </ul>
+<h3>Aktifleşince salgıladıkları</h3>
+<ol>
+<li>Doku harabiyetine neden olan <strong>sitotoksik granül proteinleri</strong> (majör bazik protein, eozinofil katyonik protein, eozinofil peroksidaz)</li>
+<li>Reaktif oksijen ürünleri (süperoksit, peroksit)</li>
+<li>Lipid mediatörleri (lökotrienler, eikozanoidler)</li>
+<li>Büyüme faktörleri (VEGF, FGF, TGF-β)</li>
+<li>Elastaz gibi enzimler</li>
+<li>Sitokinler (IL-1, IL-2, IL-4, IL-5, TNF-α)</li>
+</ol>
+<h3>Fonksiyon</h3>
+<ul>
+<li><strong>Zayıf fagosittir</strong>; asıl gücü salgıladığı toksik proteinlerdir.</li>
+<li>Bazofil ve mast hücreleriyle birlikte <strong>parazitik enfeksiyon ve alerjik durumlarda</strong> görev alır; mast hücresi ve bazofillerin salgıladığı inflamasyon yapıcı maddeleri ve bölgedeki <strong>antijen-antikor komplekslerini fagosite eder</strong>.</li>
+<li>T lenfositlere <strong>antijen sunan hücre</strong> olarak davranabilir.</li>
+<li>Postpubertal meme bezi gelişimi, östral döngü ve neoplazi gelişiminde rol oynar.</li>
+</ul>
+<h3>Klinik bağlantı</h3>
+<ul>
+<li><strong>Eozinofili:</strong> paraziter enfeksiyonlar, astım gibi alerjik hastalıklar, çeşitli solunum ve GİS hastalıkları.</li>
+<li>Astımda bronş duvarına göç eden eozinofillerin sitotoksik proteinleri epitel hasarı yapar.</li>
+<li>Kortikosteroidler eozinofil sayısını düşürür.</li>
+</ul>
+<div class="note"><p>Biyokimya 5 sunumu eozinofillerin dokularda kandakinin 100 katı bulunduğunu ve akciğer, GİS, deride yoğunlaştığını söyler. Fizyoloji 6 ise akciğer, deri ve özofagusta normalde düşük düzeyde olduklarını vurgular. Sunumda Fizyoloji 6 ifadesi esas alındı.</p></div>
+<figure class="slide-img"><img src="img/lokosit-yapi-9.jpg" alt="Eozinofilin yerleşim yerleri, salgıladığı moleküller ve fonksiyonları" loading="lazy"><figcaption>Fizyoloji 6 "Vücudun enfeksiyona direnci -1", s. 52 — eozinofil: özellikler ve fonksiyonlar</figcaption></figure>
+<p class="src">Kaynak: Drive – Fizyoloji 6 "Vücudun enfeksiyona direnci -1" s. 51–52 (esas kaynak); Histoloji 1 (granül proteinleri, kortikosteroid etkisi); Biyokimya 5. Playlist: "Lökositler, 3, Eozinofiller"</p>`
+      },
+      {
+        heading: "Bazofil ve mast hücresi",
+        html: `
 <h3>Bazofil</h3>
 <ul>
-<li>En az bulunan lökosit (%0–1); granüller koyu mor, çekirdeği örter.</li>
-<li>Granüller: <strong>histamin</strong> (vazodilatasyon, permeabilite artışı), <strong>heparin</strong> (antikoagülan), eozinofil kemotaktik faktör.</li>
-<li>Yüzeyde <strong>IgE reseptörü (FcεRI)</strong> taşır → antijen bağlanınca degranülasyon: <strong>tip I (erken) aşırı duyarlılık</strong> (ürtiker, rinit, anafilaksi).</li>
-<li>Dokudaki karşılığı <strong>mast hücresidir</strong> (benzer ama ayrı hücre soyu).</li>
+<li>Çekirdek <strong>2–3 parçalı</strong>; granülleri <strong>bazik boyalarla mora</strong> boyanır ve çekirdeği örter. En az bulunan lökosittir.</li>
+<li>Özellikleri:
+<ol>
+<li><strong>Histamin</strong> içerir (vazodilatör)</li>
+<li><strong>Heparin</strong> içerir (antikoagülan)</li>
+<li>Hücre yüzeyinde <strong>IgE bağlayan reseptörler</strong> vardır</li>
+<li>Gerektiğinde kandan dokuya geçer</li>
+<li><strong>Eozinofilik kemotaktik faktör</strong> salgılar (eozinofilleri bölgeye çeker)</li>
+</ol></li>
+<li><strong>Erken tip aşırı duyarlılık</strong> reaksiyonları için gereklidir: hafif ürtiker, rinit, <strong>anafilaktik şok</strong>. Alerjik reaksiyonlarda görülen vasküler ve doku yanıtlarının çoğundan sorumludur.</li>
+<li>Zayıf fagosittir. <strong>Arttığı durumlar:</strong> alerjik nedenlere bağlı inflamasyon, parazitik enfeksiyonlar.</li>
 </ul>
-<p class="src">Kaynak: Drive – Fizyoloji 6; Histoloji 1; Biyokimya 5. Playlist: "Lökositler, 3, Eozinofiller", "Lökositler, 4, Bazofiller"</p>`
+<h3>Mast hücresi</h3>
+<ul>
+<li>Bağ dokusunun ve mukozal epitelin <strong>yoğun granüllü</strong> hücresidir; dış ortamla temas eden dokularda (deri, solunum ve sindirim mukozası) boldur.</li>
+<li>Bazofile benzer ama <strong>daha büyük ve daha granüllüdür</strong>; kemik iliğinden <strong>olgunlaşmamış olarak ayrılır, dokuda olgunlaşır</strong>.</li>
+<li>Granüllerinde histamin, heparin, serotonin, ATP, proteoglikanlar ve proteazlar; hücre içinde lizozomal enzimler ve eikozanoidler bulunur; çeşitli sitokinler (TNF vb.) salgılar.</li>
+<li>Görevleri: parazitik enfeksiyonlarda yerel inflamasyonu başlatmak, <strong>yara iyileşmesi</strong>, <strong>anjiyogenez</strong> ve <strong>kan-beyin bariyeri</strong> işlevi. Zayıf fagosittir, antijen işler.</li>
+<li><strong>Alerji ve anafilakside</strong> rol oynar.</li>
+</ul>
+<table><caption>Bazofil ve mast hücresi karşılaştırması</caption>
+<thead><tr><th>Özellik</th><th>Bazofil</th><th>Mast hücresi</th></tr></thead>
+<tbody>
+<tr><td>Yeri</td><td>Kan (gerektiğinde dokuya geçer)</td><td>Bağ dokusu ve mukoza (dokuda yerleşik)</td></tr>
+<tr><td>Olgunlaşma</td><td>Kemik iliğinde olgunlaşır</td><td>Kemik iliğinden olgunlaşmamış çıkar, dokuda olgunlaşır</td></tr>
+<tr><td>Boyut / granül</td><td>Daha küçük, daha az granül</td><td>Daha büyük, daha granüllü</td></tr>
+<tr><td>Ortak özellik</td><td colspan="2">Histamin ve heparin içerir; yüzeyde IgE reseptörü; erken tip aşırı duyarlılık ve anafilaksi</td></tr>
+<tr><td>Ek görev</td><td>Eozinofilik kemotaktik faktör salgılar</td><td>Yara iyileşmesi, anjiyogenez, kan-beyin bariyeri</td></tr>
+</tbody></table>
+<figure class="slide-img"><img src="img/lokosit-yapi-10.jpg" alt="Bazofilin özellikleri ve arttığı durumlar" loading="lazy"><figcaption>Fizyoloji 6 "Vücudun enfeksiyona direnci -1", s. 54 — bazofil: özellikler ve arttığı durumlar</figcaption></figure>
+<figure class="slide-img"><img src="img/lokosit-yapi-11.jpg" alt="Mast hücrelerinin granül içerikleri ve görevleri" loading="lazy"><figcaption>Fizyoloji 6 "Vücudun enfeksiyona direnci -1", s. 56 — mast hücreleri: özellikler ve görevler</figcaption></figure>
+<p class="src">Kaynak: Drive – Fizyoloji 6 "Vücudun enfeksiyona direnci -1" s. 53–56 (esas kaynak); Histoloji 1 (metakromazi, mast hücresinden ayrı hücre olması). Playlist: "Lökositler, 4, Bazofiller"</p>`
       },
       {
         heading: "Monosit–makrofaj sistemi",
         html: `
+<h3>Yapı</h3>
 <ul>
-<li>Monosit kanda 10–20 saat kalır (immatür), dokuya geçince <strong>makrofaja</strong> dönüşür: çapı ~5 kat artar, bölünebilir, savaş gücü artar.</li>
-<li>Mononükleer fagosit sistemi (retiküloendotelyal sistem) doku adları: Kupffer (karaciğer), alveoler makrofaj, mikroglia (SSS), osteoklast (kemik), Langerhans (deri), histiyosit (bağ dokusu).</li>
+<li>En büyük lökosit (12–20 µm); çekirdek böbrek/at nalı şeklinde, sitoplazma geniş ve gri-mavi.</li>
+<li>Granülositlerle aynı öncülden (<strong>CFU-GM</strong>) gelişir: monoblast → promonosit → monosit (bölünme biter). Kemik iliğinde ~6 gün, kanda 10–20 saat kalır; dokuya geçince geri dönmez.</li>
+<li>Kandaki monositin savaşma yeteneği kısıtlıdır. Dokuya geçince <strong>makrofaja</strong> dönüşür: çapı ~5 kat artar, kemotaktik uyaranlarla göç eder, <strong>bölünerek çoğalabilir</strong>, T lenfositlerden salınan sitokinlerle aktive olur; dokuda 1–3 yıl yaşar.</li>
+<li><strong>Mononükleer fagosit sistemi (retiküloendotelyal sistem):</strong> hareketli makrofajlar ve yerel doku makrofajları: histiyosit (deri ve deri altı), Kupffer (karaciğer), alveoler makrofaj, mikroglia (beyin), osteoklast (kemik), dalak ve kemik iliği makrofajları, plevral ve peritoneal makrofajlar, eklemde sinovyal hücreler.</li>
 </ul>
-<h3>Makrofajın görevleri</h3>
+<h3>Fonksiyon</h3>
 <ol>
-<li><strong>Fagositoz:</strong> nötrofilden güçlü; ~100 bakteri, büyük partiküller (eritrosit, parazit, ölü nötrofil). Fagositozdan sonra hayatta kalır.</li>
-<li><strong>Antijen sunumu:</strong> MHC sınıf II ile CD4+ T hücrelerine sunar.</li>
-<li><strong>Sitokin salgısı:</strong> IL-1, TNF (ve IL-6) → ateş, akut faz yanıtı, T hücre aktivasyonu.</li>
+<li><strong>Fagositoz:</strong> mikroorganizmalar, ölü hücreler, bozulmuş matriks, denatüre proteinler ve yaşlı eritrositler. Nötrofilden güçlüdür: <strong>~100 bakteri</strong>, büyük partiküller (eritrosit, sıtma paraziti, ölü nötrofil); fagositozdan sonra <strong>yaşamaya devam eder</strong>. Lizozomları tüberküloz basilinin kalın lipit zarını sindiren <strong>lipazlar</strong> içerir.</li>
+<li><strong>Antijen sunumu:</strong> antijen parçalarını yüzeyinde MHC sınıf II ile CD4+ T lenfositlere sunar; artıkları ekzositozla atar.</li>
+<li><strong>Sitokin salgısı:</strong> multifonksiyonel <strong>IL-1</strong> ve <strong>TNF</strong> → ateş, akut faz yanıtı, T hücre aktivasyonu.</li>
 </ol>
-<div class="key"><p>Akut inflamasyonda önce nötrofil (6–24 saat), sonra monosit/makrofaj (24–48 saat) gelir. Kronik inflamasyonun hücresi makrofaj ve lenfosittir.</p></div>
-<p class="src">Kaynak: Drive – Fizyoloji 6; Patoloji (K5) 8 "Akut ve kronik yangı"; Histoloji 1. Playlist: "Lökositler, 5, Monositler"</p>`
+<h3>Klinik bağlantı</h3>
+<ul>
+<li>Akut inflamasyonda önce nötrofil (6–24 saat), sonra monosit/makrofaj (24–48 saat) gelir; <strong>kronik inflamasyon ve granülomun</strong> ana hücresi makrofajdır (epiteloid hücre, dev hücre).</li>
+<li>Monositoz: kronik enfeksiyonlar (ör. tüberküloz).</li>
+</ul>
+<figure class="slide-img"><img src="img/lokosit-yapi-12.jpg" alt="Monositin dokuya geçerek makrofaja dönüşmesi ve özelliklerinin değişmesi" loading="lazy"><figcaption>Fizyoloji 6 "Vücudun enfeksiyona direnci -1", s. 35 — monositten makrofaja dönüşüm</figcaption></figure>
+<p class="src">Kaynak: Drive – Fizyoloji 6 "Vücudun enfeksiyona direnci -1" s. 34–37, 43 (esas kaynak); Histoloji 1; Biyokimya 5; Patoloji (K5) 8 "Akut ve kronik yangı" (zamanlama, kronik yangı). Playlist: "Lökositler, 5, Monositler"</p>`
       },
       {
         heading: "Lenfositler ve CD belirteçleri",
@@ -176,7 +240,9 @@ window.TOPICS = [
       { q: "Monosit ile lenfositi yaymada nasıl ayırırsınız?", a: "<p>Monosit daha büyüktür (12–20 µm), çekirdeği böbrek/at nalı şeklinde ve kenara itilmiştir, etrafında geniş gri-mavi sitoplazma görülür. Lenfositte yuvarlak çekirdek sitoplazmayı neredeyse tamamen doldurur, yalnızca ince bir bazofilik halka kalır.</p>" },
       { q: "Opsonizasyon nedir, neden gereklidir?", a: "<p>Mikrobun yüzeyinin antikor (IgG), kompleman (C3b), CRP veya MBL ile kaplanmasıdır. Fagositlerdeki Fc ve C3b reseptörleri bu kaplamayı tanır; böylece kapsül gibi koruyucu yapısı olan mikroplar da yutulabilir. Normal hücreler düzgün yüzeyleri ve koruyucu protein kılıfları nedeniyle fagosite edilmez.</p>" },
       { q: "Solunum patlaması nedir? Bozulursa ne olur?", a: "<p>Fagositozdan sonra oksijen tüketiminin artmasıdır: NADPH oksidaz süperoksit üretir, H₂O₂ ve MPO ile HOCl oluşur. NADPH oksidaz defektinde (kronik granülomatöz hastalık) mikrop yutulur ama öldürülemez; katalaz (+) mikroplarla tekrarlayan enfeksiyon ve granülom gelişir. G6PD eksikliğinde NADPH azaldığı için benzer tablo görülebilir.</p>" },
-      { q: "Eozinofil hangi durumlarda artar?", a: "<p>Helmint (parazit) enfeksiyonları ve alerjik hastalıklarda (astım, alerjik rinit) artar. Kortikosteroidler eozinofil sayısını düşürür.</p>" },
+      { q: "Eozinofil hangi durumlarda artar ve orada ne yapar?", a: "<p>Paraziter enfeksiyonlar, astım gibi alerjik hastalıklar ve çeşitli solunum/GİS hastalıklarında artar. Zayıf fagosittir; asıl etkisini sitotoksik granül proteinleri, reaktif oksijen ürünleri ve lipid mediatörleriyle gösterir. Mast hücresi ve bazofilin salgıladığı mediatörleri ve antijen-antikor komplekslerini fagosite eder. Kortikosteroidler eozinofil sayısını düşürür.</p>" },
+      { q: "Bazofil ile mast hücresi arasındaki fark nedir?", a: "<p>İkisi de histamin ve heparin içerir, yüzeylerinde IgE reseptörü taşır ve erken tip aşırı duyarlılıktan (ürtiker, rinit, anafilaksi) sorumludur. Bazofil kanda dolaşır ve gerektiğinde dokuya geçer. Mast hücresi kemik iliğinden olgunlaşmamış çıkar, bağ dokusunda ve mukozada olgunlaşıp yerleşir; daha büyük ve daha granüllüdür. Mast hücresi ayrıca yara iyileşmesi, anjiyogenez ve kan-beyin bariyerinde görevlidir.</p>" },
+      { q: "Granülositlerin çoğu neden kemik iliğinde bekler?", a: "<p>Granülositler kemik iliğinde 3–5 gün mitotik, 5–6 gün postmitotik havuzda kalır; ilikteki sayı kandakinin ~20 katıdır. Kanda yalnızca 4–8 saat kaldıkları için bu depo, enfeksiyonda saatler içinde kana çok sayıda nötrofil verilmesini sağlar (nötrofili, sola kayma).</p>" },
       { q: "CD4 ve CD8 T hücreleri antijeni nasıl tanır?", a: "<p>CD4+ yardımcı T hücreleri antijeni antijen sunan hücrelerdeki MHC sınıf II ile, CD8+ sitotoksik T hücreleri ise tüm çekirdekli hücrelerdeki MHC sınıf I ile birlikte tanır. Normalde CD4/CD8 oranı yaklaşık 2'dir.</p>" }
     ]
   },
