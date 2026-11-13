@@ -217,6 +217,7 @@ window.TOPICS = [
 <tr><td>NK hücresi</td><td>CD16, CD56 (CD3–)</td><td>Virüslü ve kanser hücrelerini antijene özgül olmadan öldürür</td></tr>
 </tbody></table>
 <p>Normalde <strong>CD4/CD8 oranı ≈ 2</strong>.</p>
+<div class="hoca"><p>Granülositler ve monositler dokuya geçtikten sonra tekrar kana dönmezler demiştim. Oysa B ve T lenfositler kan ile doku arasında sürekli sirkülasyon yaparlar. B ve T lenfositlerin olgunlaştığı yerler primer lenfoid organlar: B lenfositler kemik iliğinde, T lenfositler timusta olgunlaşır. Olgunlaşan hücreler kanla sekonder lenfoid organlara (mukozayla ilişkili lenfoid dokular, tonsiller, adenoid, bağırsaktaki lenfoid doku, apandis; vücuda istasyonlar şeklinde dağılmış lenfoid dokular) gelir ve kendilerine özgü antijenin vücuda girmesini bekler. Bu "olgunlaşma" sırasında hangi antijene cevap vereceği de belirlenir.</p><p>T lenfositler üç gruba ayrılır: sitotoksik (öldürücü) T lenfositler CD8 proteini taşıdığı için T8 de denir; yardımcı T lenfositler CD4 taşıdığı için T4 denir; düzenleyici (regülatör) T lenfositler de diğer iki grubu baskılayarak aşırı yanıtı engeller. B lenfositler yüzeyindeki antijen reseptörüyle antijeni tanır, aktive olunca plazma hücresine dönüşüp antikor salgılar; buna humoral bağışıklık diyoruz. T lenfositler ise yabancı hücreyi doğrudan öldürür; bu da hücresel bağışıklıktır. Doğal öldürücü (NK) hücreleri ise yüzeylerinde antijen reseptörü yoktur, spesifik olmayan şekilde etki ederler; o yüzden doğal bağışıklığın elemanı sayılırlar. Perforin ve granzim ile kanser hücresine, virüsle enfekte hücreye ve nakledilen hücreye etki ederler.</p><p class="src">Hoca: Doç. Dr. Özlem Özsoy · Vücudun enfeksiyona direnci Bölüm II Kısım 1 (15.09.2023) · ~07:11</p></div>
 <p class="src">Kaynak: Drive – Histoloji 1; Patoloji (K5) 10 "İmmünopatolojiye giriş"; Mikrobiyoloji (K5) 16 "Kazanılmış immün yanıtın hücresel temeli"; Biyokimya 5. Playlist: "Lenfositler, 2"</p>`
       },
       {
@@ -329,6 +330,7 @@ window.TOPICS = [
 <tr><td>Trombositoz</td><td>Normalin üstü</td><td>Akut/kronik enfeksiyon, miyeloproliferatif hastalık, malignite</td></tr>
 </tbody></table>
 <div class="key"><p>Lökositoz görünce önce <strong>hangi alt tipin</strong> arttığına bakılır: nötrofili (bakteri), lenfositoz (virüs), eozinofili (parazit/alerji).</p></div>
+<div class="hoca"><p>Lökositlerin normal değerini, 4.000-10.000/mm³ aralığını, ezberlememiz gerekiyor. İlk derste bir tablo vermiştim, bu değerler orada yazıyordu. Normal değerin altına düşerse buna lökopeni diyoruz; peni "az" demek. Bu durumda kişide enfeksiyonlar başlar. Bunun tam tersi, lökositlerin fazla üretilmesidir.</p><p>Fazla üretim lenfoid kaynaklı da olabilir, miyeloid kaynaklı da. Sayısı çok olması neden zararlı? Fazla üretilen bu hücreler, normal lökositlerin gösterdiği fonksiyonları göstermiyor. Yani sayı çok ama fonksiyon yok. Lösemi dediğimiz hastalık ortaya çıkıyor. Metastaz da yapabilir ve vücudun metabolik dengesini bozar.</p><p class="src">Hoca: Doç. Dr. Özlem Özsoy · Vücudun enfeksiyona direnci Bölüm II Kısım 2 (15.09.2023) · ~10:40</p></div>
 <p class="src">Kaynak: Drive – Biyokimya 5 "Lökosit trombosit biyokimyası"; Histoloji 1; Patoloji (K5) 8 "Akut ve kronik yangı"</p>`
       },
       {
@@ -615,6 +617,7 @@ window.TOPICS = [
 <div class="key"><p>Akut faz proteinlerinin ortak amacı: mikrobu işaretlemek (CRP, kompleman), demiri mikroptan saklamak (ferritin, hepsidin, haptoglobin), hasarı sınırlamak (proteaz inhibitörleri) ve onarımı başlatmak (fibrinojen).</p></div>
 <figure class="slide-img"><img src="img/akut-faz-2.jpg" alt="Yangının sistemik etkileri slaytı: IL-1, TNF, IL-6, ateş, akut faz reaksiyonları, lökositoz ve lökopeni" loading="lazy"><figcaption>Patoloji (K5) 8 "Akut ve kronik yangı", s. 91 — yangının sistemik etkileri</figcaption></figure>
 <figure class="slide-img"><img src="img/akut-faz-4.jpg" alt="Yangıdaki işlevlere göre mediatörler tablosu: vazodilatasyon, geçirgenlik, kemotaksis, ateş, ağrı, doku hasarı" loading="lazy"><figcaption>Patoloji (K5) 8 "Akut ve kronik yangı", s. 129 — işlevlerine göre yangı mediatörleri (ateş: IL-1, TNF, prostaglandinler)</figcaption></figure>
+<div class="hoca"><p>Vücuda bir enfeksiyon etkeni girdiğinde TNF, interlökin-1 ve interlökin-6 gibi sitokinler üretilir. Bunlar plazmada dolaşıp bazı organlara geçerek değişikliklere yol açar. Beyne geçip ateşe neden olur; hasta olduğumuzda yaşadığımız iştahsızlık ve halsizlik de bu sitokinlerin beyin üzerindeki etkisiyle olur. Lökosit sayısı artar; bu zaten olması gereken bir cevap, çünkü savunma hücrelerini artırmış oluyoruz. Lipoliz ve kas yıkımı artar; daha fazla enerji sağlanır. Ayrıca beyinde hipofiz uyarılır, ACTH salınır ve stres hormonu kortizol yükselir. Kortizolün yükselmesi vücutta bir alarm durumudur.</p><p>Ateşte biraz duralım. Ateş yapan maddelere pirojen diyoruz. Dışarıdan giren bakteri proteinleri, lipopolisakkaritler gibi ekzojen pirojenler de, vücutta oluşan sitokinler (endojen pirojenler) de ateş yapabilir. Hipotalamus ısı ayar merkezidir; pirojenler orada prostaglandin E2 üretimine neden olur. Ateşin belli bir miktar yükselmesi iyidir; hastalıklardan korunmaya yarar, çünkü bakteri ve virüslerin replikasyonunu engeller, metabolik hızı artırır, sabah anlattığım interferonların etkisini de artırır. O yüzden çocuklara bile belli bir dereceye kadar ateş düşürücü vermiyoruz; 38-39 dolaylarına yaklaşınca tehlikeli olabiliyor ve o dönemde ateş düşürücü verebilirsiniz.</p><p class="src">Hoca: Doç. Dr. Özlem Özsoy · Vücudun enfeksiyona direnci Bölüm II Kısım 2 (15.09.2023) · ~00:57</p></div>
 <p class="src">Kaynak: Drive – Patoloji (K5) 8 s. 91 "Yangının sistemik etkileri" (IL-1, TNF, IL-6; ekzojen/endojen pirojenler ve hipotalamusta PGE2; uyku, iştah azalması, kalp hızı ve tansiyon artışı; lökositoz, lökomoid reaksiyon, nötrofili, eozinofili; lökopeni: tifo, virüs, kanser); Fizyoloji 1 (albümin ↓); Fizyoloji 6 (makrofaj IL-1/TNF salgısı). Dış kaynak: hepsidin ve kronik hastalık anemisi mekanizması (Robbins)</p>`
       }
     ],
@@ -646,6 +649,7 @@ window.TOPICS = [
 <li>Bulaşma için virüsün mukoza (genital, rektal, ağız), hasarlı deri veya doğrudan kan yoluyla alıcıya ulaşması gerekir.</li>
 </ul>
 <div class="key"><p>Bulaş riski kaynak kişinin <strong>viral yüküyle</strong> orantılıdır. Akut HIV enfeksiyonunda viral yük çok yüksek olduğu için <strong>bulaştırıcılık en yüksektir</strong>.</p></div>
+<div class="hoca"><p>Üç ana bulaş yolu var: cinsel temas, kan ve kan ürünleri, bir de anneden bebeğe geçiş. Tüm dünyada en sık yol cinsel temas. Bizim hastalarımızda bu oran çok daha yüksek; yüzde doksan beşin de üzerinde. Cinsel yol da iki şekilde oluyor: kadın-erkek arasındaki heteroseksüel temas ya da erkek-erkek arasındaki temas.</p><p>Bu üç yolun dışında başka bir bulaş ihtimali yok.</p><p class="src">Hoca: Prof. Dr. Dilara İnan · HIV ve Hepatit (Klinik) · ~26:19</p></div>
 <p class="src">Kaynak: Drive – Klinik (K5) "HIV enfeksiyonu ve Akut hepatitler" (Prof. Dr. Dilara İnan). Dış kaynak: bulaştırıcı vücut sıvıları listesi (CDC)</p>`
       },
       {
@@ -665,6 +669,7 @@ window.TOPICS = [
 <li>HIV pozitif olduğu bilinen ve tedavi almayan kişiyle korunmasız temas.</li>
 </ul>
 <p>* Dış kaynak (CDC ilişki başına risk tahmini).</p>
+<div class="hoca"><p>Her temasta bulaş olmuyor. HIV pozitif olduğunu bildiğimiz biriyle korunmasız bir vajinal temasta bulaş riski on binde beş ile binde iki arasında. Ama kondom bunu çok ciddi oranda engelliyor; bulaşı en az yirmi kat azaltıyor. Gençler arasında farkındalığın en önemli noktası bu olmalı: cinsel temas sırasında kondom kullanmak bulaşı neredeyse yok denecek kadar düşürüyor. Üstelik kondom yalnızca HIV'e karşı değil, sifiliz, belsoğukluğu gibi cinsel yolla bulaşan diğer hastalıklara karşı da koruyor.</p><p>Sünnet de cinsel eşe bulaş riskini azaltıyor. Tek eşlilik ve korunmalı cinsel temas en önemli yaklaşımlar. En riskli davranışlar ise karşılığında para ya da uyuşturucu ile yapılan cinsel temas, uyuşturucu etkisi altında yapılan temas, genital bölgesinde yara olan kişilerle temas ve birden fazla cinsel eşi olduğu bilinen kişilerle temas. HIV pozitif olduğu bilinen ve tedavi almayan biriyle korunmasız temas da riskli bir davranış.</p><p class="src">Hoca: Prof. Dr. Dilara İnan · HIV ve Hepatit (Klinik) · ~26:46</p></div>
 <p class="src">Kaynak: Drive – Klinik (K5) "HIV enfeksiyonu ve Akut hepatitler". Dış kaynak: reseptif anal ilişki riski (CDC)</p>`
       },
       {
@@ -684,6 +689,7 @@ window.TOPICS = [
 <li>Anne sütüyle geçiş gösterildiğinden <strong>emzirme önerilmez</strong>.</li>
 </ul>
 <p>* Dış kaynak (CDC).</p>
+<div class="hoca"><p>Kan yoluyla bulaşta iki ana başlık var. Biri damar içi madde bağımlıları; ortak iğne kullanılırsa risk artıyor. Diğeri kan transfüzyonu. Kan bağışında ilk eleme kişinin beyanına dayanıyor; riskli temas yok mu diye sorulan formu doğru doldurması gerekiyor. Sonra hepatit B, hepatit C ve HIV için testler yapılıyor. Ama kişi HIV aldıktan sonra ilk on, on beş gün hangi testi yaparsanız yapın, moleküler testler dahil, pozitifleşmediği bir pencere dönemi var. Bu dönemde alınmış kan verilirse yüze yakın oranda bulaş oluyor.</p><p>Anneden bebeğe bulaş gebelikte, doğum sırasında ve sonrasında olabiliyor; en sık doğum sırasında. Anne tedavi edilmiyorsa risk çok yüksek. Ama tedavi alıyor ve HIV RNA'sı baskılanmışsa, yani viral yük negatifse, anneden bebeğe geçiş neredeyse hiç olmuyor. Kendi takip ettiğim hastaların en az otuz, otuz beş bebeği oldu, hiçbiri pozitifleşmedi. Çünkü anneyi gebelik boyunca takip ediyoruz, tedavisini veriyoruz, doğum sırasında da ilaçla viral yükü negatif tutuyoruz.</p><p class="src">Hoca: Prof. Dr. Dilara İnan · HIV ve Hepatit (Klinik) · ~28:28</p></div>
 <p class="src">Kaynak: Drive – Klinik (K5) "HIV enfeksiyonu ve Akut hepatitler"; Klinik (K1) "Kan ve ürünlerinin transfüzyonu ve komplikasyonları" (dosya adı). Dış kaynak: iğne batması ve iğne paylaşımı riskleri (CDC)</p>`
       },
       {
@@ -698,6 +704,7 @@ window.TOPICS = [
 </ul>
 <div class="key"><p>HIV dış ortamda dayanıksız, zarflı bir virüstür; günlük sosyal temasla bulaşmaz. Bu bilgi damgalanmayı (stigma) azaltmak için önemlidir.</p></div>
 <figure class="slide-img"><img src="img/hiv-bulas-2.jpg" alt="HIV'in bulaşmadığı durumları gösteren ikonlar: sarılma, tokalaşma, öksürük, ortak eşya, sivrisinek" loading="lazy"><figcaption>Klinik (K5) "HIV enfeksiyonu ve Akut hepatitler", s. 42 — HIV nasıl bulaşMAZ</figcaption></figure>
+<div class="hoca"><p>HIV; öpüşmekle, sarılmakla, aynı ortamda bulunmakla, aynı kaptan yemek yemekle ya da su içmekle bulaşmaz. Kapı kolundan, sivrisinek ısırmasıyla, tuvaletten, havuzdan, denizden de bulaşmaz. HIV çok dayanıksız bir virüs, dış ortam şartlarında hemen inaktif oluyor. Saydığım üç yol dışında herhangi bir bulaş ihtimali yok.</p><p class="src">Hoca: Prof. Dr. Dilara İnan · HIV ve Hepatit (Klinik) · ~31:02</p></div>
 <p class="src">Kaynak: Drive – Klinik (K5) "HIV enfeksiyonu ve Akut hepatitler" ("HIV nasıl bulaşMAZ" görselli slaytlar; görsellerin içeriği metne aktarılmamış, liste standart kaynaklarla tamamlandı – CDC/DSÖ)</p>`
       },
       {
@@ -712,6 +719,7 @@ window.TOPICS = [
 </ul>
 <p>* Dış kaynak (CDC/DSÖ kılavuzları).</p>
 <figure class="slide-img"><img src="img/hiv-bulas-3.jpg" alt="U=U, Belirlenemeyen eşittir Bulaştırmayan kampanya görselleri" loading="lazy"><figcaption>Klinik (K5) "HIV enfeksiyonu ve Akut hepatitler", s. 54 — B=B (U=U)</figcaption></figure>
+<div class="hoca"><p>Tedavide çok önemli bir gelişme var: hastaya tanı konur konmaz tedavi başlıyoruz ve hasta tedaviye uyumlu olursa HIV RNA'yı saptanamayacak düzeye kadar baskılayabiliyoruz. Bu durumda kişinin cinsel yolla bulaştırma ihtimali artık yok kabul ediliyor. İngilizcesi "undetectable equals untransmissible", yani U=U; bizde de B=B diye biliniyor: belirlenemiyorsa bulaştırmaz. Bu yüzden tanı alan kişilere hemen tedavi başlamak çok önemli. Kişi hem kendi sağlığını kazanıyor hem de başkaları için risk oluşturmuyor.</p><p>Korunmada cinsel yol için kondom kullanımını öneriyoruz, diğer cinsel yolla bulaşan hastalıkları tedavi ediyoruz, güvenli cinsel temas tercih ediyoruz. Kan yoluyla bulaşta transfüzyona karar veren hekimsiniz; gereksiz transfüzyon yapmamak lazım, çünkü testlerin yakalayamadığı bir dönem var. Damar içi madde kullananlarda önce alışkanlığın tedavisi, olmuyorsa eğitim ve ortak enjektör kullanımının engellenmesi önemli.</p><p>Anneden bebeğe geçişte HIV pozitif kadına doğum kontrol yöntemlerini öğretiyoruz; bebek sahibi olmak istiyorsa uygun tedaviyle olabiliyor. Gebelik boyunca tedavi veriyoruz, doğar doğmaz bebeğe yaklaşık altı hafta koruyucu ilaç veriyoruz. Anne sütü konusu tartışmalı: ben kendi hastalarıma emzirmeyi önermiyorum, ama bazı rehberler son dönemde tek başına emzirmenin bulaştırmayabileceğini savunuyor; bu kısım ileride değişebilir.</p><p class="src">Hoca: Prof. Dr. Dilara İnan · HIV ve Hepatit (Klinik) · ~40:25</p></div>
 <p class="src">Kaynak: Drive – Klinik (K5) "HIV enfeksiyonu ve Akut hepatitler" (korunma, B=B). Dış kaynak: PEP/PrEP</p>`
       },
       {
@@ -725,6 +733,7 @@ window.TOPICS = [
 <li>Bildirilen olgularda bulaş yolu en sık heteroseksüel ilişki (%28,8); ancak olguların <strong>%57'sinde bulaş yolu bilinmiyor</strong>.</li>
 </ul>
 <figure class="slide-img"><img src="img/hiv-bulas-4.jpg" alt="Türkiye'de 2010'dan bu yana HIV ile yaşayanların sayısındaki artış grafiği" loading="lazy"><figcaption>Klinik (K5) "HIV enfeksiyonu ve Akut hepatitler", s. 33 — Türkiye'de HIV ile yaşayan sayısı (yaklaşık 9 kat artış)</figcaption></figure>
+<div class="hoca"><p>Dünya Sağlık Örgütü 2022 verilerine göre dünyada yaklaşık 39 milyon kişi HIV ile yaşıyor, yılda yaklaşık 1,3 milyon yeni enfeksiyon oluyor. 2010 ile karşılaştırınca HIV ile yaşayan sayısı yüzde 24 artmış ama yeni enfeksiyonlar yüzde 38 azalmış. Bu nasıl mümkün? Çünkü ölümler azaldı; çok etkin ilaçlar var, artık insanlar ölmüyor. Dünya Sağlık Örgütü HIV/AIDS'i ölümcül hastalıklar listesinden çıkarıp kronik viral enfeksiyonlar listesine aldı. Biz de hastalarımıza bunun ölümcül bir hastalık olmadığını, ilacını ömür boyu düzenli alırsa herkesle aynı süre yaşayabileceğini söylüyoruz. Tek şartımız ömür boyu ilaç kullanması.</p><p>Türkiye'de ilk vaka 1985'te saptandı ve hastalık bildirimi zorunlu hastalıklar listesinde. Son yıllarda çok ciddi bir artış var; yüzde dört yüzün üzerinde bir artıştan söz ediyoruz, 2010'dan bu yana yaklaşık dokuz kat. Orta Avrupa verilerinde bu artıştan üç ülke sorumlu: Polonya, Türkiye ve Romanya. Yani Avrupa'nın istatistiğini de Türkiye belirliyor. Hastaların büyük kısmı 25-29 yaş aralığında; 20-39 yaş toplam vakaların yarısından fazlasını oluşturuyor. Yani sizin yaşınızdaki kişiler bize hasta olarak geliyor.</p><p>Sağlık Bakanlığı kayıtlarında bulaş yolunun yaklaşık yüzde 56'sı bilinmiyor görünüyor; yüzde 28 heteroseksüel, yüzde 13 homoseksüel temas. Bilinenlerin yaklaşık yüzde 95'i cinsel yoldan, bunların üçte ikisi heteroseksüel, üçte biri erkekle seks yapan erkekler arasında. Bildirimde bulaş yolunu hasta yeni tanı almış, şoku atlatamamışken soruyoruz; zamanla hasta yollarını anlatmaya başlıyor. Benim polikliniğimde bulaş yolu bilinmeyenlerin oranı yüzde beşi geçmez ve neredeyse tamamı cinsel yoldan.</p><p class="src">Hoca: Prof. Dr. Dilara İnan · HIV ve Hepatit (Klinik) · ~20:13</p></div>
 <p class="src">Kaynak: Drive – Klinik (K5) "HIV enfeksiyonu ve Akut hepatitler" (UNAIDS/WHO 2023, TC Sağlık Bakanlığı HIV/AIDS Kontrol Programı 2023 verileri)</p>`
       },
       {
@@ -782,6 +791,7 @@ window.TOPICS = [
 <li><strong>HIV-1:</strong> tüm dünyada yaygın tip. <strong>HIV-2:</strong> büyük ölçüde Batı Afrika ile sınırlı (1986'da izole edildi), daha yavaş seyirli.</li>
 <li><strong>Köken (zoonoz):</strong> HIV-1 şempanzelerdeki SIV'e (Simian Immunodeficiency Virus), HIV-2 ise sooty mangabey (Cercocebus atys) maymunlarındaki SIV'e benzer. Virüs maymundan insana geçerek insana uyum sağlamıştır.</li>
 </ul>
+<div class="hoca"><p>HIV virüsü 1983'te saptandı; önce Fransa'da, ertesi yıl Amerika'da; kimin önce bulduğuyla ilgili bir çekişme de vardır. Yani çok eski bir hastalık değil. 1986'da Afrika'da çok benzeyen ikinci bir virüs izole edildi, buna HIV-2 dendi. Sonraki çalışmalarda HIV-1'in şempanzelerdeki, HIV-2'nin de maymunlarda saptanan bir virüsle benzerlik gösterdiği ortaya kondu.</p><p>HIV-1 ile HIV-2 yaklaşık yüzde kırk oranında benziyor. HIV-1 tüm dünyada yaygın; HIV-2 büyük ölçüde Batı Afrika'da. Bizim ülkemizdeki vakaların tümü HIV-1; HIV-2 saptarsak yurt dışından almış oluyor. Ben bundan sonra HIV dediğimde HIV-1'i anlatıyorum.</p><p class="src">Hoca: Prof. Dr. Dilara İnan · HIV ve Hepatit (Klinik) · ~17:01</p></div>
 <p class="src">Kaynak: Drive – Klinik (K5) "HIV enfeksiyonu ve Akut hepatitler" (tarihçe, etken, SIV kökeni)</p>`
       },
       {
@@ -801,6 +811,7 @@ window.TOPICS = [
 </ul>
 <p>Genler ve ilaç hedefleri için bu bölümün sonundaki özet tabloya bakın.</p>
 <figure class="slide-img"><img src="img/hiv-mekanizma-1.jpg" alt="HIV-1 virionunun yapısı: lipid zarf, gp120 ve gp41 glikoproteinleri, kapsid ve RNA" loading="lazy"><figcaption>Klinik (K5) "HIV enfeksiyonu ve Akut hepatitler", s. 23 — HIV-1 yapısı (çift katlı lipoprotein zarf, gp120/gp41)</figcaption></figure>
+<div class="hoca"><p>HIV, retrovirüslerin lentivirüs alt grubundan bir virüs. Çift katlı lipoprotein bir zarfı var, üzerinde glikoproteinler duruyor. Bunların bir kısmı tamamen dışta duruyor, buna eksternal glikoprotein, gp120 diyoruz. Bir kısmı zarı geçerek içeri uzanıyor, yani transmembran; buna da gp41 deniyor. İkisinin enfeksiyonun patogenezinde farklı rolleri var, o yüzden bahsediyorum.</p><p class="src">Hoca: Prof. Dr. Dilara İnan · HIV ve Hepatit (Klinik) · ~18:28</p></div>
 <p class="src">Kaynak: Drive – Klinik (K5) "HIV enfeksiyonu…" (zarf, gp120/gp41, p24 antijeni); Mikrobiyoloji (K5) 19a/19b (EIA/immünblot dosya adları). Dış kaynak: genom ve genler (Robbins Temel Patoloji; Abbas Temel İmmünoloji)</p>`
       },
       {
@@ -817,6 +828,7 @@ window.TOPICS = [
 </ol>
 <div class="key"><p>Hedef hücreler = yüzeyinde CD4 taşıyanlar: <strong>CD4+ T hücreleri, monosit/makrofajlar, dendritik hücreler</strong>, beyinde <strong>mikroglia</strong>.</p></div>
 <div class="note"><p><strong>CCR5Δ32</strong> mutasyonu için homozigot kişiler R5 virüslerle enfeksiyona büyük ölçüde dirençlidir. Bu bulgu, CCR5 antagonisti ilaçların (maravirok) geliştirilmesine yol açmıştır.</p></div>
+<div class="hoca"><p>Dıştaki gp120 insanda nereye tutunacak? Reseptörü CD4 molekülü. CD4 reseptörü T hücrelerinde, monositlerde ve makrofajlarda var; HIV buraya tutunduktan sonra hücrenin içine giriyor. Dikkat edin: bunlar T hücre aracılı bağışıklığın hücreleri, B hücre aracılığının değil. Yani antikorlar üzerinden değil, T hücreler üzerinden bağışıklığı bozuyor ve bağışıklık sistemini çökertip kişiyi birçok hastalığa açık hale getiriyor.</p><p class="src">Hoca: Prof. Dr. Dilara İnan · HIV ve Hepatit (Klinik) · ~19:10</p></div>
 <p class="src">Kaynak: Drive – Klinik (K5) "HIV enfeksiyonu…" (gp120 → CD4; T hücresi, monosit, makrofaj); Mikrobiyoloji (K5) 22 "İmmünyetmezlik". Dış kaynak: ko-reseptörler, R5/X4, CCR5Δ32 (Robbins; Abbas)</p>`
       },
       {
@@ -862,6 +874,7 @@ window.TOPICS = [
 <li>Risk faktöründen bağımsız <strong>tüm gebeler</strong>; HIV'li annenin bebeği; HIV'li kişinin cinsel eşleri.</li>
 <li>İğne paylaşan madde kullanıcıları, iğne batması yaşayanlar, cinsel istismar öyküsü olanlar, isteyen herkes.</li>
 </ul>
+<div class="hoca"><p>HIV testini şu durumlarda mutlaka isteriz: akut retroviral sendromla uyumlu bulgular varsa (boğaz ağrısı, ateş, döküntü, ağızda yaralar), tüberküloz tanısı konduğunda herkeste, cinsel yolla bulaşan başka bir hastalık tanısı alanlarda, HIV pozitif kişilerin cinsel eşlerinde, ve tüm gebelerde. Gebe takibinde mutlaka bakılması lazım; doğum sancısıyla geldiği anda tanı alan hastalar oluyor ve o noktada viral yükü negatif hale getirmek mümkün değil, bebeğe bulaş gerçekleşebiliyor.</p><p>Ayrıca korunmasız cinsel ilişki öyküsü, birden fazla eş, seks çalışanlığı, madde kullanımı (özellikle ortak enjektör), erkekle seks yapan erkekler ve mahkumlarda isteriz. Hastanede iğne batması ya da kesici alet yaralanması yaşayan çalışanlara, öğrencilere, internlere, cinsel istismar ve tecavüz mağdurlarına, ve test olmak isteyen herkese bakılır.</p><p>Tarama testi olarak ELISA, yani EIA bakıyoruz. Birinci, ikinci, üçüncü kuşak diye gelişti, şimdi dördüncü kuşak var ve mutlaka dördüncü kuşak ELISA ile bakmak lazım; çünkü hem antikoru hem antijeni birlikte test ediyor, saptama ihtimali daha yüksek. ELISA pozitif çıkarsa hemen tanı koyamıyoruz, mutlaka doğrulama testi yapmak gerekiyor, çünkü ELISA'nın yalancı pozitifliği olabiliyor. Testin yalancı pozitifliği olması, yalancı negatifliği olmasından iyidir; yalancı negatif olursa hastalığı kaçırırız, pozitifse ileri testle doğrularız.</p><p class="src">Hoca: Prof. Dr. Dilara İnan · HIV ve Hepatit (Klinik) · ~37:03</p></div>
 <p class="src">Kaynak: Drive – Klinik (K5) "HIV enfeksiyonu ve Akut hepatitler" (tanı ve test endikasyonları); Mikrobiyoloji (K5) 19a/19b "İmmünolojik tanı testleri" ve 20 "Moleküler testler" (dosya adları)</p>`
       },
       {
@@ -913,6 +926,7 @@ window.TOPICS = [
 </tbody></table>
 <p>* Viral yük ifadeleri ve "set point" kavramı dış kaynaktan (Robbins; Abbas); süreler, CD4 eşikleri ve klinik bulgular Drive'dan.</p>
 <div class="note"><p><strong>Persistan jeneralize lenfadenopati:</strong> inguinal bölge dışında en az iki bölgede, 3 aydan uzun süren lenf bezi büyümesi. CD4 &lt;50/mm³ ise "ileri evre HIV enfeksiyonu" olarak tanımlanır.</p></div>
+<div class="hoca"><p>Klinik olarak üç dönem var: primer (akut) enfeksiyon, kronik enfeksiyon, en sonunda AIDS. Hastalığın adı AIDS diye bilinse de AIDS aslında hastalığın son dönemi; çok ilerlemiş immün yetmezlik halidir.</p><p>Akut dönemde virüs alındıktan iki ila dört hafta sonra ateş, boğaz ağrısı, halsizlik, kas ağrısı gibi bulgular olabiliyor; bazılarında döküntü, ağızda ve genital bölgede ülser benzeri lezyonlar görülür. Buna akut retroviral sendrom diyoruz. Virüsü alanların hepsinde görülmüyor; tamamen asemptomatik geçirebilir, grip oldu sanıp evde nane limon içer, doktora gitmez. Bu dönemde kandaki virüs miktarı çok yüksek. Tablo kendi kendine düzelir ve kronik döneme geçilir.</p><p>Kronik (asemptomatik) dönem ortalama 8-10 yıl sürer. Hastanın pek şikayeti yoktur. Kandaki virüs çoğalma hızı azalır, ama gerçekte lenfoid dokuda çoğalma hızla devam eder; bağışıklık hücreleri biraz toparlar ve dengeli bir seyir olur. Şikayet olmadığı için test yapılmaz; genellikle kan bağışında ya da ameliyat öncesi testlerde saptanır. Bazılarında yorgunluk, terleme ya da üç aydan uzun süren, en az iki bölgede yaygın lenf bezi büyümesi (jeneralize lenfadenopati) olabilir. Tedavi verilmezse 8-10 yıl sonra son döneme, AIDS'e geliriz ve ölüm bu aşamada gerçekleşir.</p><p class="src">Hoca: Prof. Dr. Dilara İnan · HIV ve Hepatit (Klinik) · ~31:31</p></div>
 <p class="src">Kaynak: Drive – Klinik (K5) "HIV enfeksiyonu ve Akut hepatitler" (klinik evreleme, süreler, bulgular)</p>`
       },
       {
@@ -988,6 +1002,7 @@ window.TOPICS = [
 <li>Tüberküloz her CD4 düzeyinde görülebilir.</li>
 </ul>
 <p>* Eşik listesi dış kaynak (güncel fırsatçı enfeksiyon kılavuzları).</p>
+<div class="hoca"><p>AIDS döneminde CD4 hücreleri çok düştüğü için hasta genellikle bir fırsatçı enfeksiyonla ya da kanserle geliyor: Pneumocystis pnömonisi, lenfoma, Kaposi sarkomu, tüberküloz gibi. Bu tabloları gördüğümüzde hemen HIV testini istememiz gerekiyor. Daha ileri evrede aşırı kilo kaybıyla, yani erime (wasting) tablosuyla da başvurabiliyor.</p><p class="src">Hoca: Prof. Dr. Dilara İnan · HIV ve Hepatit (Klinik) · ~36:18</p></div>
 <p class="src">Kaynak: Drive – Klinik (K5) "HIV enfeksiyonu ve Akut hepatitler" (AIDS tanımı, en sık fırsatçı enfeksiyon ve kanserler); Mikrobiyoloji (K5) 22. Dış kaynak: CD4 eşikleri</p>`
       }
     ],
@@ -1016,6 +1031,7 @@ window.TOPICS = [
 </ul>
 <div class="key"><p>HIV için CD4 <strong>birincil reseptördür</strong>: gp120 doğrudan CD4'e bağlanır. Virüs bağışıklık sisteminin tam merkezindeki hücreyi hedef alır.</p></div>
 <figure class="slide-img"><img src="img/cd4-hiv-2.jpg" alt="Antijen sunan hücrede MHC sınıf II ile CD4 ve MHC sınıf I ile CD8 etkileşimi şeması" loading="lazy"><figcaption>Patoloji (K5) 10 "İmmünopatolojiye giriş", s. 20 — MHC sınıf I/II ile CD8/CD4 T hücre etkileşimi (Robbins'ten)</figcaption></figure>
+<div class="hoca"><p>CD4 taşıyan yardımcı T lenfositler ancak MHC sınıf II ile sunulan antijenleri tanıyabilir. CD8 taşıyan sitotoksik T lenfositler ise ancak MHC sınıf I ile sunulan antijenleri tanır. Akılda tutmak için şöyle bir yol var: CD4 ile MHC 2 çarpılınca 8 eder, CD8 ile MHC 1 çarpılınca da 8 eder. Antijen sunan hücreler makrofajlar, dendritik hücreler ve B lenfositlerdir.</p><p class="src">Hoca: Doç. Dr. Özlem Özsoy · Vücudun enfeksiyona direnci Bölüm II Kısım 1 (15.09.2023) · ~39:26</p></div>
 <p class="src">Kaynak: Drive – Patoloji (K5) 10 "İmmünopatolojiye giriş" (CD4 %60, CD8 %30, MHC II; "AIDS'te enfekte olan hücreler"); Biyokimya 5 (CD tanımı, CD4/CD8 &gt;2); Klinik (K5) "HIV enfeksiyonu…" (gp120–CD4)</p>`
       },
       {
@@ -1037,6 +1053,7 @@ window.TOPICS = [
 <figure class="slide-img"><img src="img/cd4-hiv-1.jpg" alt="Antijen sunan hücre ile CD4 yardımcı T hücresi etkileşimi ve hücresel ile hümoral yanıtın başlaması" loading="lazy"><figcaption>Histoloji 1 "Kan hücreleri gelişmesi ve histolojisi", s. 56 — yardımcı T hücresi (CD4+) ile CD8 ve B lenfosit uyarımı</figcaption></figure>
 <figure class="slide-img"><img src="img/cd4-hiv-3.jpg" alt="Naif CD4 T hücresinin antijen, eş-reseptör ve sitokin sinyalleriyle yardımcı T hücresine dönüşmesi" loading="lazy"><figcaption>Mikrobiyoloji (K5) 16 "Kazanılmış immün yanıtın hücresel temeli", s. 19 — CD4+ naif hücrenin 3 sinyalle aktivasyonu</figcaption></figure>
 <figure class="slide-img"><img src="img/cd4-hiv-4.jpg" alt="T yardımcı alt grupları: Th1, Th2, Th17, Treg, Tfh, Th9, Th22" loading="lazy"><figcaption>Mikrobiyoloji (K5) 16 "Kazanılmış immün yanıtın hücresel temeli", s. 20 — T helper alt grupları</figcaption></figure>
+<div class="hoca"><p>Yardımcı T lenfositler "herkese yardımcı" demiştim. Salgıladıkları sitokinlerle hem sitotoksik T lenfositlerin hem B lenfositlerin hem de doğal öldürücü hücrelerin daha çok aktive olmasını sağlarlar. B lenfosit yardımcı T sitokini olmadan da aktive olabilir, ama bu sitokinlerle aktivasyon daha da artar.</p><p>Yardımcı T lenfositin aktive olması için yalnızca reseptörünün antijen sunan hücredeki antijene bağlanması yetmez. İki şey daha gerekir: antijen sunan hücrenin salgıladığı sitokinler ve antijenik olmayan yapılar arasındaki bir etkileşim (ko-stimülasyon). Hepsi birlikte olursa yardımcı T aktive olur. Düzenleyici T lenfositler ise hem yardımcı hem sitotoksik T lenfositler üzerine baskılayıcı etki gösterir.</p><p class="src">Hoca: Doç. Dr. Özlem Özsoy · Vücudun enfeksiyona direnci Bölüm II Kısım 1 (15.09.2023) · ~30:15</p></div>
 <p class="src">Kaynak: Drive – Mikrobiyoloji (K5) 16 "Kazanılmış immün yanıtın hücresel temeli" (sinyal I-II-III, Th alt grupları); Histoloji 1 (CD4–ASH etkileşimi, CD8 ve B uyarımı); Patoloji (K5) 10 (Th1/Th2 sitokinleri). Tfh'de IL-21: dış kaynak (Abbas)</p>`
       },
       {
@@ -1051,6 +1068,7 @@ window.TOPICS = [
 </ul>
 <div class="key"><p>Kısır döngü: Enfeksiyon → bağışıklık aktivasyonu → daha çok aktive CD4 hücresi → daha çok virüs → daha çok CD4 kaybı.</p></div>
 <p>* Dış kaynak.</p>
+<div class="hoca"><p>AIDS'e neden olan virüs konak hücrenin ölümüne neden olur; bağışıklık sistemi çöker ve kişi yaklaşık on yıl gibi bir sürede ölebilir. Etkilediği hücreler yardımcı T lenfositlerdir. Yardımcı T lenfositin ne yaptığını hatırlayın: sitotoksik T lenfositleri, B lenfositleri ve doğal öldürücü hücreleri aktive ediyordu. Dolayısıyla yardımcı T hücresi etkilenince neredeyse bütün kazanılmış bağışıklık ve doğal bağışıklık elemanları etkilenir ve bağışıklık sistemi baskılanmış olur.</p><p>İlk beş yıl çok fazla belirti vermiyor ama ikinci beş yılda enfeksiyonlar başlıyor, çünkü bağışıklık sistemi baskılanmış durumda. Kilo kaybı ve kanser gelişebiliyor. İlk derste anlatmıştım: bağışıklık sistemi sürekli tarama yapar, kanser hücresini bulup öldürür. Bağışıklığı baskılanmış kişide kansere yakalanma ihtimali de çok artar.</p><p class="src">Hoca: Doç. Dr. Özlem Özsoy · Vücudun enfeksiyona direnci Bölüm II Kısım 2 (15.09.2023) · ~05:40</p></div>
 <p class="src">Kaynak: Drive – Klinik (K5) "HIV enfeksiyonu…" (gp120 primer reseptör CD4); Mikrobiyoloji (K5) 22 (CD4 Th hücrelerinde sürekli ilerleyen harabiyet; latent virüsün yıllar sonra etkinleşmesi). Dış kaynak: aktivasyon bağımlılığı, Nef (Robbins; Abbas)</p>`
       },
       {
@@ -1072,6 +1090,7 @@ window.TOPICS = [
 </ul>
 <div class="note"><p>Benzetme: viral yük "trenin hızı", CD4 sayısı "trenin uçuruma uzaklığı"dır.</p></div>
 <p>* Dış kaynak (CDC 2014 HIV evreleme tanımı; standart referans aralığı).</p>
+<div class="hoca"><p>CD4 sayısı bağışıklığı gösteren hücre sayısı olarak karşımıza çıkıyor. Normalde 1.400-1.500 civarında. Bazı hastalarda bu sayı 200'ün altına düşer; ya da AIDS tanımlayan durumlardan biri varsa, o zaman AIDS dönemine geldiğini söylüyoruz. Çok aşırı kilo kaybı ve zayıflığın olduğu ileri evrede buna tükenmişlik de denebilir.</p><p class="src">Hoca: Prof. Dr. Dilara İnan · HIV ve Hepatit (Klinik) · ~35:44</p></div>
 <p class="src">Kaynak: Drive – Klinik (K5) "HIV enfeksiyonu ve Akut hepatitler" (CD4 &lt;200 AIDS, &lt;50 ileri evre); Patoloji (K5) 10 ve Biyokimya 5 (CD4/CD8 ≈ 2). Dış kaynak: normal aralık ve CDC evreleri</p>`
       },
       {

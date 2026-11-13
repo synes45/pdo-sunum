@@ -284,6 +284,18 @@ tbody tr:hover { background: rgba(205, 235, 230, .35); }
 .key strong { color: #fff; }
 .key a { color: #fff; }
 
+/* lecturer's explanation — quiet quote-like panel */
+.hoca {
+  position: relative; margin: 0 0 1.3em; padding: 34px 22px 14px;
+  background: var(--paper-2); border: var(--rule); border-left: 4px solid var(--accent-2);
+}
+.hoca > :last-child { margin-bottom: 0; }
+.hoca::before {
+  content: "Hocanın anlatımı"; position: absolute; top: 11px; left: 22px;
+  font-size: .66rem; font-weight: 700; letter-spacing: .2em; text-transform: uppercase;
+  color: var(--accent-2);
+}
+
 figure { margin: 0 0 1.3em; }
 figure img {
   display: block; max-width: 100%; height: auto;
