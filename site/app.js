@@ -125,21 +125,6 @@ GROUPS.forEach(function (g, gi) {
       inner.append(sub);
     });
 
-    if (t.faq && t.faq.length) {
-      var faq = el('div', 'faq rv');
-      faq.append(el('h3', 'sub-title', 'Sorulabilecek Sorular'));
-      t.faq.forEach(function (item) {
-        var d = el('details', 'faq-item');
-        var sum = el('summary', 'faq-q');
-        sum.append(el('span', null, item.q));
-        var a = el('div', 'faq-a');
-        a.innerHTML = item.a; // trusted author content from content.js
-        wrapTables(a);
-        d.append(sum, a);
-        faq.append(d);
-      });
-      inner.append(faq);
-    }
     sec.append(inner);
     topicsEl.append(sec);
   });
