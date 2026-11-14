@@ -10,6 +10,9 @@
 4. Akut faz reaktanları nelerdir?
    - Hangi durumlarda artarlar?
 
+## Bağışıklık Sistemi
+- Bağışıklık sisteminin yapısı ve işleyişi (doğal ve kazanılmış bağışıklık, hücresel ve hümoral yanıt)
+
 ## HIV / AIDS
 5. HIV enfeksiyonu nasıl bulaşır?
 6. HIV nasıl oluşur, mekanizmaları
